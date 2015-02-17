@@ -6,3 +6,6 @@ The extension being installed and configured, there will be the “Translate” 
 Note: Bing Translate is an automated translation tool which means that the resulting translation may be inaccurate and does not correspond to professional translation standards which can be handled only by a human translator.
 
 
+#How to Use?
+
+Before using the extension, it must be configured at System->Configutarion->Bing Translate. Enter the API key which can be obtained during registration at https://datamarket.azure.com/account.Then, a target language to translate into must be set for each store view's code. For example, to translate the product contents to french, Goto System-> Manage Stores and edit the french store view and save the store view code same as language code for french (fr) which is mentioned in Bing Translator(https://msdn.microsoft.com/en-us/library/hh456380.aspx)
