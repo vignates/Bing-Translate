@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+	<sections>
+		<vignates_translate>
+			<tab>service</tab>
+			<label>Bing Translate</label>
+			<show_in_default>1</show_in_default>
+			<show_in_website>0</show_in_website>
+			<show_in_store>0</show_in_store>
+			<groups>				
+				<bing_translate>
+					<label>Bing Translate</label>
+					<show_in_default>1</show_in_default>
+					<show_in_website>0</show_in_website>
+					<show_in_store>0</show_in_store>
+					<sort_order>20</sort_order>
+					<fields>
+						<api_key>
+							<label>API key</label>
+							<show_in_default>1</show_in_default>
+							<show_in_website>0</show_in_website>
+							<show_in_store>0</show_in_store>
+						</api_key>
+					</fields>
+				</bing_translate>
+			</groups>
+		</vignates_translate>
+	</sections>
+</config>
